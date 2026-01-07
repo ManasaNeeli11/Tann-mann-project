@@ -1,6 +1,5 @@
-Got it ✅. Here's a **clean, single-page README** ending exactly with **How it works** and the **GitHub repo link**:
 
-```markdown
+
 # 🌞 Good Morning App (React + FastAPI + PostgreSQL)
 
 A full-stack application where users can submit their **name**, **phone number**, and **email** through a single web form. The frontend is built with **React JS**, the backend with **FastAPI**, and data is stored in **PostgreSQL**.  
@@ -13,17 +12,17 @@ A full-stack application where users can submit their **name**, **phone number**
 
 TANMAN-PROJ/
 ├── backend/
-│   ├── venv/                  # Python virtual environment
-│   ├── **pycache**/           # Python cache files
-│   ├── database.py            # PostgreSQL connection setup
-│   ├── database_setup.sql     # SQL file to create tables
-│   ├── main.py                # FastAPI routes
-│   ├── models.py              # SQLAlchemy models
-│   └── requirements.txt       # Python dependencies
+│   ├── venv/                 
+│   ├── **pycache**/           
+│   ├── database.py           
+│   ├── database_setup.sql     
+│   ├── main.py                
+│   ├── models.py             
+│   └── requirements.txt       
 └── frontend-react/
-├── node_modules/          # Node dependencies
-├── public/                # HTML, favicon, manifest
-└── src/                   # React components & CSS
+├── node_modules/          
+├── public/               
+└── src/                   
 
 ````
 
